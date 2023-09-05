@@ -18,6 +18,7 @@
 * Функциональные и классовые компоненты
 
 ### Языки:
+* JavaScript
 
 # Ссылка на сайт:
 [OFDR](https://evgenyvetrov33.github.io/OFDR/)
